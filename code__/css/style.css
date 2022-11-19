@@ -1,15 +1,15 @@
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800);
-@import url(https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800);
+@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900);
 
 
 
 
 .mz-module:hover .ot-circle.color3 {
-	color: #6EB377;
+	color: #F1AA2A;
 }
 .mz-module:hover .ot-circle.color4 {
-	color: #FCBE03;
+	color: #AA67FE;
 }
 
 .mz-module:hover .ot-circle.color1 {
@@ -156,7 +156,6 @@ section ul li:before {
 	color: #fed136;
 	outline: 0
 }
-
 .navbar-default .navbar-nav>.active>a {
 	border-radius: 0;
 	color: #fff;
@@ -343,6 +342,12 @@ header {
 	font-size: 23px;
 	font-weight: 300;
 	margin: 0 0 20px;
+}
+
+.section-cta p {
+	color: #fff;
+	font-size: 16px;
+	font-weight: 200;
 }
 
 .button-cta {
