@@ -174,7 +174,8 @@ section ul li:before {
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;
 		transition:padding .3s;
-		border:0
+		border:0;
+		backdrop-filter: blur(5px) grayscale(100%);
 	}
 	.navbar-default .navbar-brand {
 		font-size: 2em;
@@ -188,8 +189,6 @@ section ul li:before {
 		border-radius: 3px
 	}
 	.navbar-default.navbar-shrink {
-		background-color: #FFFFFF;
-		border-bottom: 1px solid #828282;
 		padding: 5px 0;
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
