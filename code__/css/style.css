@@ -250,12 +250,14 @@ header {
 	left: 50%;
 }
 
+/*
 @media (min-width: 768px) {
 	.intro-text {
 		padding-top: 230px;
 		padding-bottom: 400px;
     }
 }
+*/
 
 .intro-text .intro-lead-in {
 	display: inline-block;
